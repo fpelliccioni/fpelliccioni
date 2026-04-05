@@ -8,7 +8,9 @@ I am a core developer in the Bitcoin ecosystem, with over 10 years of experience
 
 I have been a member of the **ISO C and C++ committees (WG14 & WG21)** since 2022, contributing to the evolution of the language. My expertise spans low-level systems programming, high-performance computing, parallel processing, and blockchain technology.
 
-Since 2000, I have been actively developing blockchain and decentralized finance (DeFi) solutions using **Solidity**, **Rust**, and other technologies. I have built and deployed multiple DeFi platforms, including decentralized exchanges (DEXes) based on Uniswap V2 and V3, a DEX aggregator, an on-chain order book system, and tokenomics mechanisms such as deflationary token models. My experience ranges from smart contract design to full-stack implementation, leveraging Rust for high-performance backend services and Solidity for secure, scalable DeFi protocols.
+Since 2020, I have been actively developing blockchain and decentralized finance (DeFi) solutions using **Solidity**, **Rust**, and other technologies. I have built and deployed multiple DeFi platforms, including decentralized exchanges (DEXes) based on Uniswap V2 and V3, a DEX aggregator, an on-chain order book system, and tokenomics mechanisms such as deflationary token models. My experience ranges from smart contract design to full-stack implementation, leveraging Rust for high-performance backend services and Solidity for secure, scalable DeFi protocols.
+
+Currently, I am building **DeFi solutions on Bitcoin Cash L1 using CashTokens**, and developing a **BCH wallet with integrated DeFi capabilities**.
 
 In recent years, I have also expanded my skills into **data science**, developing high-performance data processing solutions using **C++23** and **WebAssembly**, ensuring fast, scalable computations directly in the browser.
 
